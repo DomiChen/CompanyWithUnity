@@ -15,6 +15,7 @@ namespace CompanyWithUnity
         public frmMain()
         {
             InitializeComponent();
+            string ss = "11";
         }
     }
 }
